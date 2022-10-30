@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b9a9568a.css",
+    "main.js": "./static/js/main.afe224cb.js",
+    "static/js/732.0ce1e1d3.chunk.js": "./static/js/732.0ce1e1d3.chunk.js",
+    "static/js/412.a2495b25.chunk.js": "./static/js/412.a2495b25.chunk.js",
+    "static/js/26.93a13d5e.chunk.js": "./static/js/26.93a13d5e.chunk.js",
+    "static/js/107.a40f4f21.chunk.js": "./static/js/107.a40f4f21.chunk.js",
+    "static/js/67.cb65e38b.chunk.js": "./static/js/67.cb65e38b.chunk.js",
+    "static/js/787.95c885b5.chunk.js": "./static/js/787.95c885b5.chunk.js",
+    "static/js/745.17d941c3.chunk.js": "./static/js/745.17d941c3.chunk.js",
+    "static/js/273.41a4bbd0.chunk.js": "./static/js/273.41a4bbd0.chunk.js",
+    "static/js/881.8c283803.chunk.js": "./static/js/881.8c283803.chunk.js",
+    "static/js/249.47f28fef.chunk.js": "./static/js/249.47f28fef.chunk.js",
+    "static/js/977.9e2348db.chunk.js": "./static/js/977.9e2348db.chunk.js",
+    "index.html": "./index.html",
+    "main.b9a9568a.css.map": "./static/css/main.b9a9568a.css.map",
+    "main.afe224cb.js.map": "./static/js/main.afe224cb.js.map",
+    "732.0ce1e1d3.chunk.js.map": "./static/js/732.0ce1e1d3.chunk.js.map",
+    "412.a2495b25.chunk.js.map": "./static/js/412.a2495b25.chunk.js.map",
+    "26.93a13d5e.chunk.js.map": "./static/js/26.93a13d5e.chunk.js.map",
+    "107.a40f4f21.chunk.js.map": "./static/js/107.a40f4f21.chunk.js.map",
+    "67.cb65e38b.chunk.js.map": "./static/js/67.cb65e38b.chunk.js.map",
+    "787.95c885b5.chunk.js.map": "./static/js/787.95c885b5.chunk.js.map",
+    "745.17d941c3.chunk.js.map": "./static/js/745.17d941c3.chunk.js.map",
+    "273.41a4bbd0.chunk.js.map": "./static/js/273.41a4bbd0.chunk.js.map",
+    "881.8c283803.chunk.js.map": "./static/js/881.8c283803.chunk.js.map",
+    "249.47f28fef.chunk.js.map": "./static/js/249.47f28fef.chunk.js.map",
+    "977.9e2348db.chunk.js.map": "./static/js/977.9e2348db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9a9568a.css",
+    "static/js/main.afe224cb.js"
+  ]
+}
